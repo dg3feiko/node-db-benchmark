@@ -1,0 +1,24 @@
+{
+  "name": "node-db-benchmark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dg3feiko/node-db-benchmark.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dg3feiko/node-db-benchmark/issues"
+  },
+  "homepage": "https://github.com/dg3feiko/node-db-benchmark",
+  "dependencies": {
+    "async": "^0.9.0",
+    "express": "^4.12.3",
+    "mongodb": "^2.0.25"
+  }
+}
